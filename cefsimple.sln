@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cefsimple", "cefsimple\cefsimple.vcxproj", "{929A50B0-0C08-34C7-B5B7-C090F7CB0689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929A50B0-0C08-34C7-B5B7-C090F7CB0689}.Debug|Win32.ActiveCfg = Debug|Win32
+		{929A50B0-0C08-34C7-B5B7-C090F7CB0689}.Debug|Win32.Build.0 = Debug|Win32
+		{929A50B0-0C08-34C7-B5B7-C090F7CB0689}.Release|Win32.ActiveCfg = Release|Win32
+		{929A50B0-0C08-34C7-B5B7-C090F7CB0689}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA26AFA-0176-4564-BF50-191F6E57E314}
+	EndGlobalSection
+EndGlobal
